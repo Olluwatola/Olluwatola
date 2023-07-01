@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Olluwatola/Olluwatola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,29 +14,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Oluwatola Ezekiel
-Backend Engineer
-I am a curious mind, passionate about exploring new technologies and building stuff.
+<h1>Odunlami Oluwatola Ezekiel </h1>
 
-LinkedIn: Oluwatola Ezekiel
-Twitter: @toladev
-Discord: zt#7039
+<h2>Backend Engineer </h2>
 
-Areas of Expertise and Interests
-Express.js
-MongoDB
-TypeScript
-Node.js
-Postman
-Python
-JavaScript
-HTML
-CSS
-Git
+I am a <b>curious mind</b></span>, passionate about <b>exploring new technologies</b> and applying my knowledge to building <b>real life solutions</b> to human problems.
 
-Current Project
+<h4>LinkedIn: <a href=https://www.linkedin.com/in/oluwatola-ezekiel-549318236/>Oluwatola Ezekiel </a></h4> <h4>Twitter: <a href=twitter.com/23thedev>@23thedev</a></h4>  <h4>Discord: zt#7039</h4>
+
+<h2>Areas of Expertise and Interests</h2>
+<ul>
+<li>Express.js</li>
+
+<li>MongoDB</li>
+
+<li>TypeScript</li>
+
+<li>Node.js</li>
+
+<li>Postman</li>
+
+<li>Python</li>
+
+<li>JavaScript</li>
+
+<li>HTML</li>
+
+<li>CSS</li>
+
+<li>Git</li>
+</ul>
+<h2>Current Project</h2>
+
 I am currently working on a project called SneakPic, a web3 social media platform. It utilizes technologies like Solana, Ethereum, React.js, Node.js, Express.js, MongoDB, OAuth, TypeScript, and other web3 and web2 tools.
 
-Collaborations
+<h2>Collaborations</h2>
+
 I am open to collaborations. Feel free to reach out to discuss potential opportunities.
 
