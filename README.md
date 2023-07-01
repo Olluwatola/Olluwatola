@@ -46,7 +46,7 @@ I am a <b>curious mind</b></span>, passionate about <b>exploring new technologie
 </ul>
 <h2>Current Project</h2>
 
-I am currently working on a project called SneakPic, a web3 social media platform. It utilizes technologies like Solana, Ethereum, React.js, Node.js, Express.js, MongoDB, OAuth, TypeScript, and other web3 and web2 tools.
+I am currently working on a project called SneakPic, a web3 social media platform. It will utilize technologies like Solana, Ethereum, React.js, Node.js, Express.js, MongoDB, OAuth, TypeScript, and other web3 and web2 tools.
 
 <h2>Collaborations</h2>
 
