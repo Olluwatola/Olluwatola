@@ -22,7 +22,7 @@ I am a <b>curious mind</b></span>, passionate about <b>exploring new technologie
 
 <h4>LinkedIn: <a href=https://www.linkedin.com/in/oluwatola-ezekiel-549318236/>Oluwatola Ezekiel </a></h4> <h4>Twitter: <a href=twitter.com/23thedev>@23thedev</a></h4>  <h4>Discord: zt#7039</h4>
 
-<h2>Areas of Expertise and Interests</h2>
+<h2>Areas of Expertise and Technologies Mastered</h2>
 <ul>
 <li>Express.js</li>
 
@@ -36,6 +36,8 @@ I am a <b>curious mind</b></span>, passionate about <b>exploring new technologie
 
 <li>Python</li>
 
+<li> Java </li>
+
 <li>JavaScript</li>
 
 <li>HTML</li>
@@ -43,6 +45,10 @@ I am a <b>curious mind</b></span>, passionate about <b>exploring new technologie
 <li>CSS</li>
 
 <li>Git</li>
+
+<li>React js</li>
+
+<li>Tailwind</li>
 </ul>
 <h2>Current Project</h2>
 
