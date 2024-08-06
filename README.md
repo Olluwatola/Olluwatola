@@ -32,11 +32,7 @@ I am a <b>curious mind</b></span>, passionate about <b>exploring new technologie
 
 <li>Node.js</li>
 
-<li>Postman</li>
-
 <li>Python</li>
-
-<li> Java </li>
 
 <li>JavaScript</li>
 
@@ -46,13 +42,11 @@ I am a <b>curious mind</b></span>, passionate about <b>exploring new technologie
 
 <li>Git</li>
 
-<li>React js</li>
 
-<li>Tailwind</li>
 </ul>
 <h2>Current Project</h2>
 
-I am currently working on a project called SneakPic, a web3 social media platform. It will utilize technologies like Solana, Ethereum, React.js, Node.js, Express.js, MongoDB, OAuth, TypeScript, and other web3 and web2 tools.
+I am currently working on a project called Split thru, a bill splitting platform. It will utilize technologies like Express.js, Postgresql, TypeScript, and other tools.
 
 <h2>Collaborations</h2>
 
