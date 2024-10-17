@@ -34,9 +34,13 @@ I am a <b>curious mind</b></span>, passionate about <b>exploring new technologie
 
 <li>Python</li>
 
+<li>Tailwind</li>
+
 <li>JavaScript</li>
 
 <li>HTML</li>
+
+<li>React</li>
 
 <li>CSS</li>
 
