@@ -44,7 +44,7 @@ I am a <b>curious mind</b></span>, passionate about <b>exploring new technologie
 
 <li>CSS</li>
 
-<li>Git</li>
+<li>Laravel</li>
 
 
 </ul>
